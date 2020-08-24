@@ -13,7 +13,7 @@
 					{
 						"id": "e55c8d17-2cf3-b21a-bcf1-eeacb011ed79",
 						"level": 1,
-						"alterId": 233
+						"alterId": 5
 					}
 				]
 			},
@@ -57,11 +57,9 @@
 	],
 	"dns": {
 		"servers": [
-			"https+local://cloudflare-dns.com/dns-query",
-			"1.1.1.1",
-			"1.0.0.1",
-			"8.8.8.8",
+			"https+local://dns.google/dns-query",
 			"8.8.4.4",
+			"1.1.1.1",
 			"localhost"
 		]
 	},
